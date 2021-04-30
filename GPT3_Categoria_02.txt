@@ -1,0 +1,27 @@
+Create an icebreaker message for a client based on an important and true news from his company and his position:
+
+###
+INFORMATION ABOUT CLIENT
+* Company:
+Samsung Electronics America
+* Position:
+Vice President
+ICEBREAKER MESSAGE
+A while back I saw Samsung's largest curved signage in the world in the news - definitely mind blowing. Very cool that you have been working for Samsung.
+
+###
+INFORMATION ABOUT CLIENT
+* Company:
+Abercrombie & Fitch Co.
+* Position:
+Director of Data Science & Analytics
+ICEBREAKER MESSAGE
+I've seen in a couple of places that A&F is investing heavily in innovation - glad to see more retailers embracing new tech.
+
+###
+INFORMATION ABOUT CLIENT
+* Company:
+Predictor_Company
+* Position:
+Predictor_Position
+ICEBREAKER MESSAGE
